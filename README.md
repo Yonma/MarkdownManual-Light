@@ -3,7 +3,7 @@ An extension of [MarkdownManual by MightyPirates](https://github.com/MightyPirat
 
 # What's different
 
-You could use this to create your own manual through less steps by simply changing assets files.
+No need to program to create your own markdown manual in minecraft. Just change assets files!
 
 # Notice
 Forge 1.16.5 supported only now.
