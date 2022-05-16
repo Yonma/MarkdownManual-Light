@@ -1,12 +1,16 @@
-# PRB 参考手册
-PhantasmRealityB..? 简称 PRB
+# Manual Wiki for modpacks
+Example
 
-———— *版本介绍*
+———— *Intro*
 
-这是一个测试样例。
+This is an example text
 
-## 索引示例
-[测试文本](test/test_md.md)
+## Test Index
+[Test Link](test/test_md.md)
 
-## 制作者名单
-PRB模组官方
+## Credits
+- team OPEREO
+- @Sangar_
+
+## Test
+MarkdownManual-Lite is an extension of `MarkdownManual`, most parts are inherited from their example mod `TIS-3D`. You can use this mod to create your own manual by simply changing files in the `assets` directory.
