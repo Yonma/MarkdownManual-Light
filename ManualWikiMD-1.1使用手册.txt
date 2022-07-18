@@ -6,7 +6,7 @@ A. 将资源文件按照下面的文件结构放置 (可以直接把zh_cn中的�
 B. 添加tab：
 	a. 将tab名(英文)放入tabs.txt，每行一个，删干净空格；
 	b. 在zh_cn及en_us目录下创建以tab名(英文)命名的文件夹，文件夹中至少需要放进一个index.md文件；
-	c. 在texture/gui目录下添加以tab+tabName命名的材质文件。示例："tab_tabname1.png"；
+	c. 在texture/gui目录下添加以tab+tabName命名的材质文件。示例："tab_tabname1.png"(目前只支持png格式)；
 	d. 在lang中添加新条目，中英文都加上。示例(en_us)："manualwikimd.manual.tabName": "TabName"；
 	e. 调整tab时请注意及时删除tabs.txt中的无用条目及相关文件夹。
 C. 将所需文件对应添加到jar包中，或者直接用本地的文件夹将jar包中的doc, lang, gui三个文件夹替换
